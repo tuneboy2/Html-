@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Registration Form</title>
+
+    </head>
+
+    <body>
+
+        <p align="center"><b>Employee Registration Form</b></p>
+
+        <hr>
+
+    <form>
+
+   <labelfor="firstname">Firstname:</label>
+
+   <input type="text" id="firstname" required placeholder="Firstname"><br><br>
+
+   <label for middlename>Middlename:</label>
+
+   <input type="text" id="middlename" placeholder="Middlename"><br><br>
+
+   <label for="lastname">Lastname:</label>
+
+   <input type="text" id="lastname" placeholder="Lastname"><br><br>
+
+   <label for="department">Department:</label>
+
+   <!--A drop-box-->
+
+   <select>
+
+       <option>Department</option>
+
+       <option>HR</option>
+
+       <option>Accounting</option>
+
+       <option>Maintenance</option>
+
+   </select>
+
+   <br><br>Gender:<br>
+
+   <!--radio circular box will appear because of type="radio"-->
+
+   <input type="radio" name="gender" value="male">
+
+   <label>Male</label><br>
+
+   <input type="radio" name="gender" value="female">
+
+   <label>Female</label><br>
+
+   <input type="radio" name="gender" value="other">
+
+   <label>Other</label>
+
+   <br><br>
+
+   <label>Phone:</label>
+
+   <!--input the country code-->
+
+   <input type="tel"" value="+234" size="2">
+
+   <!--input the tel number in a chosen pattern-->
+
+   <input type="tel" pattern="{0-9}{4}-{0-9}{4}" placeholder="1234-5678"><br><br>
+
+   <label>Contact Address:</label>
+
+   <!--A textarea to input the contact address-->
+
+   <textarea cols="30" rows="5"><!--Please Specify Contact Adress--></textarea><br><br>
+
+   <label>Drop your resume:</label>
+
+   <!--An option to attach a file-->
+
+   <input type="file"><br><br>
+
+   <label>Email:</label>
+
+   <!--write emails in the standard format-->
+
+   <input type="email" placeholder="abc@gmail.com" name="email" required><br><br>
+
+   <label>Password:</label>
+
+   <!--Write passwords in hidden format-->
+
+   <input type="password" placeholder="Enter Password "><br><br>
+
+   <label>Re-type Password:</label>
+
+   <!--Write passwords in hidden format-->
+
+   <input type="password" placeholder="Re-type Password">
+
+   <br><br>
+
+   <input type="button" value="Register">
+
+   </form>
+
+   
+
+    </body>
+
+</html>
