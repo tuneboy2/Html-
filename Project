@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ADSports</title>
+    </head>
+    <body>
+        <div>
+            <div>
+                <nav>
+                    <ul>
+                        <li><a href="#aboutus">About Us</a></li>
+                        <li><a href="#indoor">Indoor</a></li>
+                        <li><a href="#outdoor">Outdoor</a></li>
+                        <li><a href="#">History</a></li>
+                        <li>ADSports</li>
+                    </ul>
+                </nav>
+            </div>
+            <header>
+            <div>
+                <h1>ADSports</h1>
+                <h2>Your Best Place to Visualize and enjoy playing different sports</h2>
+                <p>mysports is the best way to organize and enjoy the feel of playing and stepping into the world of virtual sports - and shop for 
+                    the ones you want. Enjoy all this entertainment provided free in any platforms - MAC and Windows.
+                </p>
+            </div>
+            </header>
+        </div>
+        <footer>
+            <div>
+                <ul>
+                    <li>Shop & Play</li>
+                    <li><a href="#">3D Sports</a></li>
+                    <li><a href="#">Arcade Games</a></li>
+                    <li><a href="#">Virtual Reality</a></li>
+                    <li><a href="#">Merchandise</a></li>
+                    <li><a href="#">Gift Cards</a></li>
+                </ul>
+                <ul>
+                    <li>ADSports Store</li>
+                    <li><a href="#">Find a Store</a></li>
+                    <li><a href="#">Today at ADSports</a></li>
+                    <li><a href="#">Sports Camp</a></li>
+                    <li><a href="#">Entertainment</a></li>
+                    <li><a href="#">Order Sports Items</a></li>
+                </ul>
+                <ul>
+                    <li>Education & Business</li>
+                    <li><a href="#">AD & Education</a></li>
+                    <li><a href="#">Shop for Courses</a></li>
+                    <li><a href="#">AD & Business</a></li>
+                    <li><a href="#">Shop for Business</a></li>
+                    <li><a href="#">Jobs</a></li>
+                </ul>
+                <ul>
+                    <li>About AD</li>
+                    <li><a href="#">Newsroom</a></li>
+                    <li><a href="#">AD Leadership</a></li>
+                    <li><a href="#">AD Blogs</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Contact Support</a></li>
+                </ul>
+            </div>
+            <div>
+                Copyright &copy; Ade's Concept
+            </div>
+        </footer>
+    </body>
+</html>
